@@ -36,6 +36,7 @@ body {
   display: flex;
 }
 
+/* for mobile devices */
 @media (max-width:375px) {
   .container {
     display: flex;
@@ -45,6 +46,7 @@ body {
   }
 }
 
+/* end of mobile device's styling */
 div {
   width: 100%;
   padding: 5%;
