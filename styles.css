@@ -36,6 +36,15 @@ body {
   display: flex;
 }
 
+@media (max-width:375px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: auto;
+  }
+}
+
 div {
   width: 100%;
   padding: 5%;
@@ -64,7 +73,7 @@ p {
 
 .luxury {
   background-color: var(--vdark-cyan);
-  border-radius: 0 0.5rem 0.5rem 0 ;
+  border-radius: 0 0.5rem 0.5rem 0;
 }
 
 .btn {
@@ -79,6 +88,7 @@ p {
 .sedans-btn {
   color: var(--bright-orange);
 }
+
 .sedans-btn:hover {
   background-color: var(--bright-orange);
   color: var(--vlight-gray);
@@ -88,6 +98,7 @@ p {
 .suvs-btn {
   color: var(--dark-cyan);
 }
+
 .suvs-btn:hover {
   background-color: var(--dark-cyan);
   color: var(--vlight-gray);
@@ -97,6 +108,7 @@ p {
 .luxury-btn {
   color: var(--vdark-cyan);
 }
+
 .luxury-btn:hover {
   background-color: var(--vdark-cyan);
   color: var(--vlight-gray);
