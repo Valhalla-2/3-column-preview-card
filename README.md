@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Valhalla-2/3-column-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click Here](https://github.com/Valhalla-2/3-column-preview-card)
+- Live Site URL: [Click Here](https://valhalla-2.github.io/3-column-preview-card/)
 
 ## My process
 
